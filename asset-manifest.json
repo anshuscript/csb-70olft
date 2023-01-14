@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-70olft/static/css/main.bd6a67cd.chunk.css",
+    "main.js": "https://.github.io/csb-70olft/static/js/main.3a0c76b8.chunk.js",
+    "main.js.map": "https://.github.io/csb-70olft/static/js/main.3a0c76b8.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-70olft/static/js/runtime-main.63e64844.js",
+    "runtime-main.js.map": "https://.github.io/csb-70olft/static/js/runtime-main.63e64844.js.map",
+    "static/js/2.80e06d5f.chunk.js": "https://.github.io/csb-70olft/static/js/2.80e06d5f.chunk.js",
+    "static/js/2.80e06d5f.chunk.js.map": "https://.github.io/csb-70olft/static/js/2.80e06d5f.chunk.js.map",
+    "index.html": "https://.github.io/csb-70olft/index.html",
+    "static/css/main.bd6a67cd.chunk.css.map": "https://.github.io/csb-70olft/static/css/main.bd6a67cd.chunk.css.map",
+    "static/js/2.80e06d5f.chunk.js.LICENSE.txt": "https://.github.io/csb-70olft/static/js/2.80e06d5f.chunk.js.LICENSE.txt",
+    "static/media/avatar.6c3c2e03.svg": "https://.github.io/csb-70olft/static/media/avatar.6c3c2e03.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63e64844.js",
+    "static/js/2.80e06d5f.chunk.js",
+    "static/css/main.bd6a67cd.chunk.css",
+    "static/js/main.3a0c76b8.chunk.js"
+  ]
+}
